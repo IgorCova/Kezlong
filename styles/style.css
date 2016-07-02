@@ -1,0 +1,644 @@
+html, body{
+margin:0px;
+padding:0px;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+#conteiner{
+width:100%;
+}
+
+#conteiner .wrapper{
+height:630px;
+width:100%;
+background-color:#f8c820;
+}
+#conteiner .wrapper header{
+margin:0 auto;
+width:75%;
+height:100px;
+}
+
+#conteiner .wrapper header .left{
+float:left;
+margin-top:10px;
+}
+
+#conteiner .wrapper header .left h1{
+font-weight:bold;
+margin:0px;
+}
+
+#conteiner .wrapper header .left p{
+margin-top:5px;
+}
+
+#conteiner .wrapper header nav {
+float:right;
+}
+
+#conteiner .wrapper header nav ul li{
+float:left;
+list-style:none;
+margin-top:10px;
+}
+
+#conteiner .wrapper header nav ul li a{
+color:#31345d;
+display:block;
+padding:0 15px;
+text-decoration:none;
+font-weight:bold;
+}
+
+#conteiner .wrapper header nav ul li a span{
+border-bottom:solid 1px #d1aa33;
+}
+
+.clear{clear:both;}
+
+#conteiner .wrapper header nav ul li a span:hover{
+border-bottom:none;
+}
+
+#conteiner .wrapper .pennibord{
+margin:0 auto;
+width:75%;
+}
+
+#conteiner .wrapper .pennibord p{
+margin-top:60px;
+font-weight:bold;
+font-size:190%;
+color:#222;
+}
+
+#conteiner .wrapper .pennibord p span{
+color:#cda519;
+}
+
+#conteiner .wrapper .skeith{
+margin-top:60px;
+width:100%;
+}
+
+#conteiner .wrapper .skeith .center .name input[type="text"]{
+border:2px solid #cda519;
+border-radius:4px 4px 4px 4px;
+background-color:#f8c820;
+color:#cda519;
+display:block;
+width:148px;
+padding:12px 5px 8px;
+float:left;
+margin-top:0px;
+margin-left:-10px;
+}
+
+#conteiner .wrapper .skeith .center  input[type="text"]{
+border:2px solid #cda519;
+border-radius:4px 4px 4px 4px;
+background-color:#f8c820;
+color:#cda519;
+display:block;
+width:200px;
+padding:12px 5px 8px;
+font-size:100%;
+margin-top:15px;
+
+}
+
+#conteiner .wrapper .skeith .center input[type="submit"]{
+border:none;
+border-radius:6px 6px 6px 6px;
+background-color:#69d93c;
+color:#d7ffc8;
+display:block;
+width:180px;
+padding:13px 7px;
+text-shadow:5px 5px 5px 5px #ecbf1e;
+}
+
+
+#conteiner .wrapper .skeith .left{
+width:12.5%;
+float:left;
+}
+
+#conteiner .wrapper .skeith .center{
+float:left;
+}
+
+#conteiner .wrapper .skeith .center span{
+display:block;
+float:left;
+color:#cda519;
+margin-left:10px;
+line-height:1.3;
+font-weight:bold;
+}
+
+#conteiner .wrapper .skeith .right {
+float:right;
+}
+
+#conteiner .wrapper .skeith .left img {
+height:150px;
+}
+
+#conteiner .wrapper .skeith .right img {
+width:700px;
+margin-top:-20px;
+}
+
+#conteiner #pokupka .wotsap{
+padding-top:30px;
+margin:0;
+font-weight:bold;
+font-size:200%;
+color:#e9e9e9;
+}
+
+#conteiner #pokupka {
+width:100%;
+height:270px;
+background-color:#31345d;
+}
+
+#conteiner #pokupka  .dost{
+margin:0 auto;
+width:75%;
+}
+
+#conteiner #pokupka  .dost .logik .yellow{
+width:80px;
+height:80px;
+border-radius:5px;
+float:left;
+background-color:#f8c820;
+}
+
+#conteiner #pokupka  .dost .maney .yellow{
+width:80px;
+height:80px;
+border-radius:5px;
+float:left;
+background-color:#f8c820;
+}
+
+#conteiner #pokupka  .dost .job .yellow{
+width:80px;
+height:80px;
+border-radius:5px;
+float:left;
+background-color:#f8c820;
+}
+
+#conteiner #pokupka  .dost .logik  table, #conteiner #pokupka  .dost .maney table, #conteiner #pokupka  .dost .job table {
+width:350px;
+}
+
+#conteiner #pokupka  .dost .logik{
+margin-top:30px;
+float:left;
+width:323px;
+}
+
+#conteiner #pokupka  .dost .maney{
+margin-top:30px;
+float:left;
+padding-left:70px;
+width:280px;
+}
+
+#conteiner #pokupka  .dost .job{
+margin-top:27px;
+float:left;
+padding-left:70px;
+width:250px;
+}
+
+
+
+#conteiner #pokupka  .dost .logik p, #conteiner #pokupka  .dost .maney p, #conteiner #pokupka  .dost .job p {
+color:#e9e9e9;
+padding-left:0px;
+float:left;
+font-weight:bold;
+margin-top:0px;
+line-height:1.3;
+font-size:90%;
+}
+
+#conteiner #podarki{
+margin:0;
+background-color:#eeedef;
+}
+
+#conteiner  #podarki .content{
+width:70%;
+margin:auto;
+padding-top:60px;
+}
+
+#podarki .p_first{
+font-size:200%;
+color:#31345d;
+font-weight:bold;
+margin:0;
+padding-top:20px;
+}
+
+#podarki .content .bord{
+float:left;
+}
+
+#podarki .content .r_t{
+float:right;
+}
+
+ #podarki .content .h_penny div, #podarki .content .b_penny div{
+ float:left;
+ }
+ 
+ #podarki .content .p_penny{
+ width:700px;
+ }
+ 
+ #podarki .content .p_penny div{
+ float:right;
+ }
+
+ #conteiner #podarki .content .h_penny p span{
+ font-weight:bold;
+ font-size:150%;
+ color:#31345d;
+ }
+
+#conteiner #podarki .content .h_penny p{
+margin-left:40px;
+padding-top:13px;
+line-height:1.5;
+color:#858585;
+font-weight:bold;
+font-size:83%;
+ }
+ 
+#conteiner #podarki .content .b_penny p span{
+ font-weight:bold;
+ font-size:150%;
+ color:#31345d;
+ }
+
+#conteiner #podarki .content .b_penny p{
+margin-left:40px;
+padding-top:15px;
+line-height:1.5;
+color:#858585;
+font-weight:bold;
+font-size:83%;
+ }
+ 
+#conteiner #podarki .content .p_penny p span{
+ font-weight:bold;
+ font-size:150%;
+ color:#31345d;
+ }
+
+#conteiner #podarki .content .p_penny p{
+margin-right:40px;
+padding-top:13px;
+line-height:1.5;
+color:#858585;
+font-weight:bold;
+font-size:83%;
+ }
+ 
+ 
+ 
+/* Адаптация под планшет (альбомная ориентация) */ 
+
+ @media screen and  (max-width: 1200px) {
+     
+	 #conteiner .wrapper{
+	  height:400px;
+	 }
+ 
+     #conteiner .wrapper header{
+	  height:50px;
+      width:75%;
+}    
+     #conteiner .wrapper header nav ul li a{     
+      padding:0 5px; 
+	 }
+	  
+	 #conteiner .wrapper header nav ul li a span{
+	   font-size:75%;
+	 }
+	 
+	 #conteiner .wrapper header nav ul li a span:hover{
+	   font-size:75%;
+	 }
+	 
+	 #conteiner .wrapper header .left h1{
+	    font-size:130%;
+	 }
+	 
+	 #conteiner .wrapper header .left p{
+	     font-size:80%;
+	 }
+	 
+	 #conteiner .wrapper .pennibord p{
+	    font-size:130%;
+	 }	 
+	 
+	 #conteiner .wrapper .skeith .left img{
+	     height:100px;
+	 }
+	 
+	 #conteiner .wrapper .skeith .right img{
+	     width:500px;
+		 margin-top:-20;
+	 }
+	 
+	 #conteiner .wrapper .skeith .center .name input[type="text"]{
+         width:108px;
+         padding:8px 5px 8px;
+     }
+
+     #conteiner .wrapper .skeith .center  input[type="text"]{
+         width:160px;
+         padding:8px 5px 8px;
+         margin-top:15px;
+     }
+
+     #conteiner .wrapper .skeith .center input[type="submit"]{
+         width:140px;
+         padding:9px 7px;
+     }
+	 
+	 #conteiner .wrapper .skeith .center form div .z_min{
+	     font-size:80%;
+	 }
+	 
+	 #conteiner #pokupka .wotsap{
+	     font-size:150%;
+	 }
+	 
+	 #conteiner #pokupka  .dost .logik .yellow, #conteiner #pokupka  .dost .maney .yellow, #conteiner #pokupka  .dost .job .yellow{
+	     height:70px;
+		 width:70px;
+	 }
+	 
+	 #conteiner #pokupka  .dost .logik table td p, #conteiner #pokupka  .dost .maney table td p, #conteiner #pokupka  .dost .job table td p{
+	     font-size:80%;
+	 }
+	 
+	 #conteiner #pokupka  .dost{
+	     padding-left:145px;
+	     width:90%;
+	 }
+	 
+	 #conteiner #pokupka  .dost .maney, #conteiner #pokupka  .dost .job{
+	     padding-left:0px;
+	 }
+	 
+	 #conteiner #pokupka  .dost .logik  table, #conteiner #pokupka  .dost .maney table, #conteiner #pokupka  .dost .job table {
+         width:270px;
+     } 	 
+	 
+     #conteiner #pokupka{
+	     height:200px;
+	 }
+	 
+	 #podarki .content .bord  img{
+	     height:400px;
+	 }
+	 
+	 #podarki .p_first{
+	     font-size:150%;
+	 }
+	 
+	 #conteiner #podarki .content .h_penny p span{
+	     font-size:150%;
+	 }
+	 
+	 #conteiner #podarki .content .h_penny p{
+	     font-size:65%;
+	 }
+	 
+	  #conteiner #podarki .content .b_penny p span{
+	     font-size:150%;
+	 }
+	 
+	  #conteiner #podarki .content .b_penny p {
+	     font-size:65%;
+	 }
+	 
+	  #conteiner #podarki .content .p_penny p span{
+	     font-size:150%;
+	 }
+	 
+	  #conteiner #podarki .content .p_penny p {
+	     font-size:65%;
+	 }
+	 
+	 #podarki .content .p_penny{
+	     width:650px;
+	 }
+	 
+	 #conteiner  #podarki .content{
+	     width:80%;
+	 }
+	 
+	 #podarki .content .p_penny div img{
+	     margin-right:150px;
+	 }
+	 
+	 #conteiner #podarki .content .b_penny {
+         padding-top:25px;
+     }
+}
+
+
+/* Адаптация под планшет (портретная ориентация) */ 
+
+ @media screen and  (max-width: 800px) {
+     
+	 #conteiner .wrapper{
+	  height:400px;
+	 }
+ 
+     #conteiner .wrapper header{
+	  height:50px;
+      width:86%;
+	  }
+	  
+     #conteiner .wrapper header nav ul li a{     
+      padding:0 5px; 
+	 }
+	  
+	 #conteiner .wrapper header nav ul li a span{
+	   font-size:65%;
+	 }
+	 
+	 #conteiner .wrapper header nav ul li a span:hover{
+	   font-size:65%;
+	 }
+
+	 #conteiner .wrapper header .left h1{
+	    font-size:120%;
+	 }
+	 
+	 #conteiner .wrapper header .left p{
+	     font-size:75%;
+	 }
+	 
+	 #conteiner .wrapper .pennibord{
+	     width:86%;
+	 }
+	 
+	 #conteiner .wrapper .pennibord p{
+	    margin-top:30px;
+	    font-size:100%;
+	 }	 
+	 
+	 #conteiner .wrapper .skeith .left img{
+	     height:65px;
+	 }
+	 
+	 #conteiner .wrapper .skeith .right img{
+	     width:300px;
+		 margin-top:-7;
+	 }
+	 
+	 #conteiner .wrapper .skeith .left{
+         width:7%;
+     }
+	 
+	 #conteiner .wrapper .skeith .center .name input[type="text"]{
+         width:90px;
+         padding:5px 5px 8px;
+		 font-size:75%;
+     }
+
+     #conteiner .wrapper .skeith .center  input[type="text"]{
+         width:140px;
+         padding:5px 5px 8px;
+         margin-top:15px;
+		 font-size:75%;
+     }
+
+     #conteiner .wrapper .skeith .center input[type="submit"]{
+         width:140px;
+         padding:9px 7px;
+		 font-size:73%;
+     }
+	 
+	 #conteiner .wrapper .skeith .center form div .z_min{
+	     font-size:80%;
+	 }
+	 
+	 #conteiner #pokupka .wotsap{
+	     font-size:130%;
+	 }
+	 
+	 #conteiner #pokupka  .dost .logik .yellow, #conteiner #pokupka  .dost .maney .yellow, #conteiner #pokupka  .dost .job .yellow{
+	     height:60px;
+		 width:58px;
+	 }
+	 
+	 #conteiner #pokupka  .dost .logik table td p, #conteiner #pokupka  .dost .maney table td p, #conteiner #pokupka  .dost .job table td p{
+	     font-size:67%;
+	 }
+	 
+	 #conteiner #pokupka  .dost{
+	     padding-left:30px;
+	     width:90%;
+	 }
+	 
+	 #conteiner #pokupka  .dost .maney, #conteiner #pokupka  .dost .job{
+	     padding-left:0px;
+	 }
+	 
+	 #conteiner #pokupka  .dost .logik  table, #conteiner #pokupka  .dost .maney table, #conteiner #pokupka  .dost .job table {
+         width:220px;
+     } 	 
+	 
+	 #conteiner #pokupka  .dost .logik , #conteiner #pokupka  .dost .maney , #conteiner #pokupka  .dost .job {
+         width:230px;
+}
+	 
+     #conteiner #pokupka{
+	     height:200px;
+	 }
+	 
+	 #podarki .content .bord  img{
+	     height:320px;
+	 }
+	 
+	 #podarki .p_first{
+	     font-size:150%;
+	 }
+	 
+	 #conteiner #podarki .content{
+	     width:90%!important
+	 }
+	 
+	 #podarki .p_first{
+         font-size:120%;
+         padding-top:20px;
+     }
+	 
+	 
+	 #conteiner #podarki .content .r_t{
+	     width:550px;
+	
+	 }
+	 
+	 #conteiner #podarki .content .h_penny p span{
+	     font-size:150%;
+	 }
+	 
+	 #conteiner #podarki .content .h_penny div img{
+	     width:200px;
+		 height:100px;
+	 }
+	 
+	 #conteiner #podarki .content .h_penny p{
+	     font-size:65%;
+	 }
+	 
+	  #conteiner #podarki .content .b_penny p span{
+	     font-size:150%;
+	 }
+	 
+	  #conteiner #podarki .content .b_penny p {
+	     font-size:65%;
+	 }
+	 
+	  #conteiner #podarki .content .p_penny p span{
+	     font-size:150%;
+	 }
+	 
+	  #conteiner #podarki .content .p_penny p {
+	     font-size:65%;
+	 }
+	 
+	 #podarki .content .p_penny{
+	     width:580px;
+	 }
+	 
+	 #conteiner  #podarki .content{
+	     width:80%;
+	 }
+	 
+	 #podarki .content .p_penny div img{
+	     margin-right:80px;
+	 }
+	 
+	 #conteiner #podarki .content .b_penny {
+         padding-top:25px;
+     }
+}
+ 
